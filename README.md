@@ -24,7 +24,7 @@ This is a solution to the [Blog preview challenge on Frontend Mentor](https://ww
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://jordanj03.github.io/social-links-profile)
+- Live Site URL: [GitHub Pages](https://jordanj03.github.io/blog-preview-card)
 
 ## My process
 
