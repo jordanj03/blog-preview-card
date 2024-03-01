@@ -26,8 +26,8 @@ body {
 .container {
   background-color: #fff;
   border-radius: 15px;
-  height: 600px;
-  width: 350px;
+  height: 550px;
+  width: 400px;
   border: 2px solid var(--black);
   box-shadow: var(--black) 6px 10px;
   padding: 20px 30px;
