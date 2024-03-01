@@ -57,6 +57,11 @@ body {
   font-weight: 800;
   font-size: 28px;
   margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.lead:hover {
+  color: var(--yellow);
 }
 
 .content {
